@@ -1,0 +1,27 @@
+django
+djangorestframework
+django-filter
+pyopenssl
+# mysqlclient
+psycopg2-binary
+djangorestframework-jwt
+django-cors-headers
+django-rest-swagger
+django-extensions
+
+# For fake data
+Faker
+
+# For Exel
+lxml
+xlrd
+xlwt
+pyexcel-ezodf
+openpyxl
+odfpy
+XlsxWriter
+html5lib
+tabulate
+pygal
+csvtotable
+django-excel
